@@ -1,13 +1,13 @@
 <?php
 
 /**
- * Plugin Name: Breakdance Custom Elements
- * Plugin URI: https://breakdance.com/
- * Description: Boilerplate plugin to save your custom elements created with Element Studio.
- * Author: Breakdance
- * Author URI: https://breakdance.com/
+ * Plugin Name: Alante Custom Elements
+ * Plugin URI: https://alantewebdesign.com/
+ * Description: Custom Breakdance Elements created by Alante Web Design
+ * Author: Alante Web Design
+ * Author URI: https://alantewebdesign.com/
  * License: GPLv2
- * Text Domain: breakdance
+ * Text Domain: alante
  * Domain Path: /languages/
  * Version: 0.0.1
  */
